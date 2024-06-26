@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57809757127",
+    "project_id": "peeshop-cb2ea",
+    "storage_bucket": "peeshop-cb2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57809757127:android:ab1e65e6d6605537f42fe2",
+        "android_client_info": {
+          "package_name": "com.example.uas_pmo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiO-aQNrMHVp9rCT8rhNBgRzLzKHsSLcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
