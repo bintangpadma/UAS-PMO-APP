@@ -1,8 +1,9 @@
-# uas_pmo
+# APLIKASI PEMESANAN PIZZA
 
-A new Flutter project.
+Aplikasi ini merupakan aplikasi berbasis android yang memudahkan Anda untuk memesan pizza favorit langsung dari perangkat mobile Anda. Dengan antarmuka yang intuitif dan fitur-fitur canggih, memberikan pengalaman memesan makanan yang cepat, aman, dan nyaman.
 
-## Getting Started
+## Desain Figma
+
 
 This project is a starting point for a Flutter application.
 
